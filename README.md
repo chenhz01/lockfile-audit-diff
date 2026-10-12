@@ -9,6 +9,8 @@ Confidence: high for diff mechanics; heuristics are advisory signals.
 
 as of 2026-10-11
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 A dependency bump PR shows "add left-pad 1.3.0" and every reviewer shrugs.
